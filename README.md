@@ -22,9 +22,9 @@ Mengimplementasikan struktur data dinamis (vector, string) untuk mengelola film,
 Menunjukkan bagaimana sistem modular dapat memproses pemesanan kursi, mencetak struk, dan menampilkan layout kursi secara real-time.
 
 - Tujuan Edukatif  
-Memberikan studi kasus nyata bagi siswa untuk memahami penerapan OOP dalam kehidupan sehari-hari.
+Memberikan studi kasus nyata untuk memahami penerapan OOP dalam kehidupan sehari-hari.
 
-Membantu siswa melihat hubungan antar objek (Film, Penonton, Bioskop).
+Membantu melihat hubungan antar objek (Film, Penonton, Bioskop).
 
 Melatih keterampilan problem solving melalui validasi input, manajemen kursi, dan pencetakan struk.
 
